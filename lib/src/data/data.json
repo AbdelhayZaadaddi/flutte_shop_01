@@ -1,0 +1,5747 @@
+[
+    {
+        "id": 1,
+        "name": "Sunglasses",
+        "description": "Compact and travel-friendly",
+        "price": 899.85,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 2,
+        "name": "Tablet",
+        "description": "Compact and travel-friendly",
+        "price": 636.28,
+        "categories": [
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 3,
+        "name": "Smartphone",
+        "description": "High-quality and durable",
+        "price": 189.46,
+        "categories": [
+            "Home & Kitchen",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 4,
+        "name": "Office Chair",
+        "description": "Affordable and reliable",
+        "price": 54.92,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 5,
+        "name": "Vacuum Cleaner",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 591.77,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 6,
+        "name": "Office Chair",
+        "description": "Lightweight and portable",
+        "price": 906.84,
+        "categories": [
+            "Home & Kitchen",
+            "Fashion",
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 7,
+        "name": "Sunglasses",
+        "description": "Suitable for all age groups",
+        "price": 400.85,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 8,
+        "name": "Backpack",
+        "description": "High-quality and durable",
+        "price": 900.48,
+        "categories": [
+            "Fashion",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 9,
+        "name": "Sneakers",
+        "description": "High-quality and durable",
+        "price": 507.3,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 10,
+        "name": "T-Shirt",
+        "description": "Stylish and trendy design",
+        "price": 366.06,
+        "categories": [
+            "Fashion",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 11,
+        "name": "Tablet",
+        "description": "High-quality and durable",
+        "price": 778.22,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 12,
+        "name": "Tent",
+        "description": "Comfortable and ergonomic",
+        "price": 896.49,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 13,
+        "name": "LED TV",
+        "description": "Comfortable and ergonomic",
+        "price": 340.88,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 14,
+        "name": "Laptop",
+        "description": "Perfect for everyday use",
+        "price": 987.34,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion",
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 15,
+        "name": "T-Shirt",
+        "description": "High-quality and durable",
+        "price": 921.95,
+        "categories": [
+            "Electronics",
+            "Fashion",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 16,
+        "name": "Yoga Mat",
+        "description": "Comfortable and ergonomic",
+        "price": 696.61,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 17,
+        "name": "Wireless Headphones",
+        "description": "Perfect for everyday use",
+        "price": 265.72,
+        "categories": [
+            "Fashion",
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 18,
+        "name": "Sunglasses",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 234.61,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 19,
+        "name": "Wristwatch",
+        "description": "Lightweight and portable",
+        "price": 832.69,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 20,
+        "name": "Yoga Mat",
+        "description": "High-quality and durable",
+        "price": 699.1,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 21,
+        "name": "Wristwatch",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 817.85,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 22,
+        "name": "Tablet",
+        "description": "Made from premium materials",
+        "price": 524.84,
+        "categories": [
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 23,
+        "name": "Fitness Tracker",
+        "description": "Comfortable and ergonomic",
+        "price": 484.28,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 24,
+        "name": "Bluetooth Speaker",
+        "description": "Compact and travel-friendly",
+        "price": 73.09,
+        "categories": [
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 25,
+        "name": "Running Shoes",
+        "description": "Lightweight and portable",
+        "price": 805.36,
+        "categories": [
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 26,
+        "name": "Backpack",
+        "description": "Suitable for all age groups",
+        "price": 303.24,
+        "categories": [
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 27,
+        "name": "Office Chair",
+        "description": "Suitable for all age groups",
+        "price": 670.69,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 28,
+        "name": "Water Bottle",
+        "description": "Suitable for all age groups",
+        "price": 247.07,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 29,
+        "name": "Blender",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 242.94,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 30,
+        "name": "Wireless Headphones",
+        "description": "Perfect for everyday use",
+        "price": 239.49,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 31,
+        "name": "Yoga Mat",
+        "description": "Made from premium materials",
+        "price": 532.45,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 32,
+        "name": "Laptop",
+        "description": "Compact and travel-friendly",
+        "price": 78.18,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 33,
+        "name": "Blender",
+        "description": "Compact and travel-friendly",
+        "price": 709.1,
+        "categories": [
+            "Electronics",
+            "Fashion",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 34,
+        "name": "Sunglasses",
+        "description": "High-quality and durable",
+        "price": 426.27,
+        "categories": [
+            "Electronics",
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 35,
+        "name": "Fitness Tracker",
+        "description": "Comfortable and ergonomic",
+        "price": 139.06,
+        "categories": [
+            "Fashion",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 36,
+        "name": "Sunglasses",
+        "description": "Lightweight and portable",
+        "price": 23.06,
+        "categories": [
+            "Home & Kitchen",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 37,
+        "name": "Fitness Tracker",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 253.53,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen",
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 38,
+        "name": "T-Shirt",
+        "description": "Made from premium materials",
+        "price": 942.44,
+        "categories": [
+            "Home & Kitchen",
+            "Fashion",
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 39,
+        "name": "Tablet",
+        "description": "Comfortable and ergonomic",
+        "price": 209.87,
+        "categories": [
+            "Fashion",
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 40,
+        "name": "Camping Lantern",
+        "description": "Comfortable and ergonomic",
+        "price": 738.83,
+        "categories": [
+            "Fashion",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 41,
+        "name": "Office Chair",
+        "description": "Suitable for all age groups",
+        "price": 634.07,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 42,
+        "name": "Tent",
+        "description": "Affordable and reliable",
+        "price": 752.74,
+        "categories": [
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 43,
+        "name": "Backpack",
+        "description": "Stylish and trendy design",
+        "price": 386.74,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 44,
+        "name": "Backpack",
+        "description": "Perfect for everyday use",
+        "price": 878.35,
+        "categories": [
+            "Fashion",
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 45,
+        "name": "Desk Lamp",
+        "description": "Lightweight and portable",
+        "price": 867.66,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 46,
+        "name": "Sneakers",
+        "description": "Suitable for all age groups",
+        "price": 308.89,
+        "categories": [
+            "Electronics",
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 47,
+        "name": "Wristwatch",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 386.27,
+        "categories": [
+            "Fashion",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 48,
+        "name": "Tent",
+        "description": "Comfortable and ergonomic",
+        "price": 650.3,
+        "categories": [
+            "Fashion",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 49,
+        "name": "T-Shirt",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 148.35,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 50,
+        "name": "Water Bottle",
+        "description": "Made from premium materials",
+        "price": 610.57,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 51,
+        "name": "Action Camera",
+        "description": "Comfortable and ergonomic",
+        "price": 829.7,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics",
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 52,
+        "name": "Tent",
+        "description": "Lightweight and portable",
+        "price": 944.69,
+        "categories": [
+            "Home & Kitchen",
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 53,
+        "name": "Blender",
+        "description": "Stylish and trendy design",
+        "price": 15.96,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 54,
+        "name": "Yoga Mat",
+        "description": "Made from premium materials",
+        "price": 833.14,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 55,
+        "name": "Wireless Headphones",
+        "description": "Comfortable and ergonomic",
+        "price": 608.17,
+        "categories": [
+            "Fashion",
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 56,
+        "name": "Cookware Set",
+        "description": "Perfect for everyday use",
+        "price": 118.84,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 57,
+        "name": "Laptop",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 706.48,
+        "categories": [
+            "Fashion",
+            "Electronics",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 58,
+        "name": "Gaming Chair",
+        "description": "Affordable and reliable",
+        "price": 633.09,
+        "categories": [
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 59,
+        "name": "Tent",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 951.27,
+        "categories": [
+            "Fashion",
+            "Electronics",
+            "Home & Kitchen",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 60,
+        "name": "Action Camera",
+        "description": "Affordable and reliable",
+        "price": 242.61,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 61,
+        "name": "LED TV",
+        "description": "Stylish and trendy design",
+        "price": 843.22,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 62,
+        "name": "Cookware Set",
+        "description": "Perfect for everyday use",
+        "price": 632.8,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 63,
+        "name": "Wireless Headphones",
+        "description": "Comfortable and ergonomic",
+        "price": 596.78,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 64,
+        "name": "Camping Lantern",
+        "description": "Affordable and reliable",
+        "price": 466.88,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 65,
+        "name": "Desk Lamp",
+        "description": "Affordable and reliable",
+        "price": 214.49,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics",
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 66,
+        "name": "Cookware Set",
+        "description": "Perfect for everyday use",
+        "price": 663.85,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 67,
+        "name": "Smartphone",
+        "description": "Perfect for everyday use",
+        "price": 627.55,
+        "categories": [
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 68,
+        "name": "Tablet",
+        "description": "Made from premium materials",
+        "price": 37.66,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 69,
+        "name": "Camping Lantern",
+        "description": "Compact and travel-friendly",
+        "price": 42.19,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 70,
+        "name": "Yoga Mat",
+        "description": "High-quality and durable",
+        "price": 923.17,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 71,
+        "name": "Action Camera",
+        "description": "Suitable for all age groups",
+        "price": 875.92,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 72,
+        "name": "Tablet",
+        "description": "High-quality and durable",
+        "price": 904.37,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 73,
+        "name": "Smartphone",
+        "description": "Perfect for everyday use",
+        "price": 973.41,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 74,
+        "name": "Running Shoes",
+        "description": "Made from premium materials",
+        "price": 175.81,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 75,
+        "name": "Office Chair",
+        "description": "Stylish and trendy design",
+        "price": 389.1,
+        "categories": [
+            "Electronics",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 76,
+        "name": "Water Bottle",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 127.9,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 77,
+        "name": "Smartphone",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 439.65,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 78,
+        "name": "Yoga Mat",
+        "description": "High-quality and durable",
+        "price": 12.11,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics",
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 79,
+        "name": "Tent",
+        "description": "Comfortable and ergonomic",
+        "price": 446.34,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 80,
+        "name": "Wireless Headphones",
+        "description": "Comfortable and ergonomic",
+        "price": 539.81,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 81,
+        "name": "Bluetooth Speaker",
+        "description": "Made from premium materials",
+        "price": 584.27,
+        "categories": [
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Fashion",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 82,
+        "name": "Laptop",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 183.66,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 83,
+        "name": "Sneakers",
+        "description": "Comfortable and ergonomic",
+        "price": 944.27,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 84,
+        "name": "Vacuum Cleaner",
+        "description": "Made from premium materials",
+        "price": 633.4,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 85,
+        "name": "Blender",
+        "description": "Compact and travel-friendly",
+        "price": 922.88,
+        "categories": [
+            "Electronics",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 86,
+        "name": "Desk Lamp",
+        "description": "Made from premium materials",
+        "price": 184.11,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 87,
+        "name": "Running Shoes",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 387.94,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 88,
+        "name": "Camping Lantern",
+        "description": "Stylish and trendy design",
+        "price": 995.47,
+        "categories": [
+            "Fashion",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 89,
+        "name": "Fitness Tracker",
+        "description": "Compact and travel-friendly",
+        "price": 983.59,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 90,
+        "name": "LED TV",
+        "description": "Made from premium materials",
+        "price": 41.56,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 91,
+        "name": "Electric Kettle",
+        "description": "Lightweight and portable",
+        "price": 224.8,
+        "categories": [
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 92,
+        "name": "Wireless Headphones",
+        "description": "Stylish and trendy design",
+        "price": 616.15,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics",
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 93,
+        "name": "Wristwatch",
+        "description": "Perfect for everyday use",
+        "price": 217.18,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics",
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 94,
+        "name": "Tent",
+        "description": "Perfect for everyday use",
+        "price": 183.95,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 95,
+        "name": "Sneakers",
+        "description": "Suitable for all age groups",
+        "price": 263.65,
+        "categories": [
+            "Home & Kitchen",
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 96,
+        "name": "Office Chair",
+        "description": "Lightweight and portable",
+        "price": 96.25,
+        "categories": [
+            "Electronics",
+            "Fashion",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 97,
+        "name": "Sneakers",
+        "description": "Lightweight and portable",
+        "price": 70.1,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 98,
+        "name": "Laptop",
+        "description": "Made from premium materials",
+        "price": 593.58,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen",
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 99,
+        "name": "Backpack",
+        "description": "Perfect for everyday use",
+        "price": 196.4,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 100,
+        "name": "Bluetooth Speaker",
+        "description": "Suitable for all age groups",
+        "price": 474.51,
+        "categories": [
+            "Fashion",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 101,
+        "name": "Yoga Mat",
+        "description": "Compact and travel-friendly",
+        "price": 730.44,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics",
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 102,
+        "name": "Wireless Headphones",
+        "description": "Compact and travel-friendly",
+        "price": 662.02,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 103,
+        "name": "Sneakers",
+        "description": "Perfect for everyday use",
+        "price": 615.63,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 104,
+        "name": "Camping Lantern",
+        "description": "Affordable and reliable",
+        "price": 272.02,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 105,
+        "name": "Fitness Tracker",
+        "description": "Affordable and reliable",
+        "price": 989.0,
+        "categories": [
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 106,
+        "name": "Running Shoes",
+        "description": "Lightweight and portable",
+        "price": 774.17,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 107,
+        "name": "Wristwatch",
+        "description": "Comfortable and ergonomic",
+        "price": 506.39,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 108,
+        "name": "Camping Lantern",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 689.57,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 109,
+        "name": "Yoga Mat",
+        "description": "Stylish and trendy design",
+        "price": 612.53,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 110,
+        "name": "Smartphone",
+        "description": "Lightweight and portable",
+        "price": 256.89,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 111,
+        "name": "Desk Lamp",
+        "description": "Perfect for everyday use",
+        "price": 872.71,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 112,
+        "name": "Tablet",
+        "description": "Lightweight and portable",
+        "price": 966.69,
+        "categories": [
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 113,
+        "name": "Action Camera",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 682.91,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 114,
+        "name": "Sneakers",
+        "description": "Affordable and reliable",
+        "price": 983.53,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 115,
+        "name": "Wireless Headphones",
+        "description": "Compact and travel-friendly",
+        "price": 283.96,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 116,
+        "name": "Running Shoes",
+        "description": "Lightweight and portable",
+        "price": 518.43,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 117,
+        "name": "Tent",
+        "description": "Comfortable and ergonomic",
+        "price": 90.37,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 118,
+        "name": "T-Shirt",
+        "description": "Suitable for all age groups",
+        "price": 317.35,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 119,
+        "name": "Laptop",
+        "description": "Comfortable and ergonomic",
+        "price": 496.43,
+        "categories": [
+            "Fashion",
+            "Electronics",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 120,
+        "name": "Tablet",
+        "description": "Suitable for all age groups",
+        "price": 36.64,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 121,
+        "name": "Camping Lantern",
+        "description": "Lightweight and portable",
+        "price": 555.16,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 122,
+        "name": "Blender",
+        "description": "Lightweight and portable",
+        "price": 959.92,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 123,
+        "name": "Laptop",
+        "description": "Lightweight and portable",
+        "price": 17.77,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 124,
+        "name": "Camping Lantern",
+        "description": "Comfortable and ergonomic",
+        "price": 586.02,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 125,
+        "name": "Bluetooth Speaker",
+        "description": "Stylish and trendy design",
+        "price": 84.4,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 126,
+        "name": "Backpack",
+        "description": "Comfortable and ergonomic",
+        "price": 995.49,
+        "categories": [
+            "Electronics",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 127,
+        "name": "Wireless Headphones",
+        "description": "Lightweight and portable",
+        "price": 709.21,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 128,
+        "name": "Water Bottle",
+        "description": "Stylish and trendy design",
+        "price": 703.27,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 129,
+        "name": "Vacuum Cleaner",
+        "description": "Compact and travel-friendly",
+        "price": 92.16,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 130,
+        "name": "Laptop",
+        "description": "Affordable and reliable",
+        "price": 837.78,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 131,
+        "name": "Camping Lantern",
+        "description": "Perfect for everyday use",
+        "price": 979.94,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 132,
+        "name": "Gaming Chair",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 452.23,
+        "categories": [
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 133,
+        "name": "Camping Lantern",
+        "description": "Compact and travel-friendly",
+        "price": 121.46,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 134,
+        "name": "Water Bottle",
+        "description": "Perfect for everyday use",
+        "price": 127.08,
+        "categories": [
+            "Home & Kitchen",
+            "Fashion",
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 135,
+        "name": "Backpack",
+        "description": "Suitable for all age groups",
+        "price": 955.13,
+        "categories": [
+            "Electronics",
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 136,
+        "name": "Tent",
+        "description": "High-quality and durable",
+        "price": 702.59,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 137,
+        "name": "Fitness Tracker",
+        "description": "Perfect for everyday use",
+        "price": 285.82,
+        "categories": [
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 138,
+        "name": "Action Camera",
+        "description": "Compact and travel-friendly",
+        "price": 499.57,
+        "categories": [
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Electronics",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 139,
+        "name": "Blender",
+        "description": "Suitable for all age groups",
+        "price": 70.24,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 140,
+        "name": "Laptop",
+        "description": "Comfortable and ergonomic",
+        "price": 788.89,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 141,
+        "name": "Water Bottle",
+        "description": "Stylish and trendy design",
+        "price": 855.98,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 142,
+        "name": "Sneakers",
+        "description": "Stylish and trendy design",
+        "price": 467.74,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics",
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 143,
+        "name": "Electric Kettle",
+        "description": "Perfect for everyday use",
+        "price": 485.62,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 144,
+        "name": "Desk Lamp",
+        "description": "Affordable and reliable",
+        "price": 215.98,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 145,
+        "name": "Wristwatch",
+        "description": "High-quality and durable",
+        "price": 756.03,
+        "categories": [
+            "Electronics",
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 146,
+        "name": "Blender",
+        "description": "Compact and travel-friendly",
+        "price": 399.71,
+        "categories": [
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 147,
+        "name": "Bluetooth Speaker",
+        "description": "Compact and travel-friendly",
+        "price": 431.1,
+        "categories": [
+            "Electronics",
+            "Fashion",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 148,
+        "name": "Wireless Headphones",
+        "description": "Affordable and reliable",
+        "price": 369.01,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 149,
+        "name": "Sneakers",
+        "description": "Lightweight and portable",
+        "price": 546.61,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 150,
+        "name": "Electric Kettle",
+        "description": "Perfect for everyday use",
+        "price": 22.71,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 151,
+        "name": "Action Camera",
+        "description": "Stylish and trendy design",
+        "price": 61.68,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 152,
+        "name": "Action Camera",
+        "description": "Affordable and reliable",
+        "price": 184.24,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 153,
+        "name": "Gaming Chair",
+        "description": "Comfortable and ergonomic",
+        "price": 517.96,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 154,
+        "name": "Running Shoes",
+        "description": "Compact and travel-friendly",
+        "price": 924.21,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 155,
+        "name": "Wireless Headphones",
+        "description": "Comfortable and ergonomic",
+        "price": 39.08,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics",
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 156,
+        "name": "Desk Lamp",
+        "description": "Comfortable and ergonomic",
+        "price": 910.89,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 157,
+        "name": "Tent",
+        "description": "Stylish and trendy design",
+        "price": 811.4,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 158,
+        "name": "Electric Kettle",
+        "description": "Comfortable and ergonomic",
+        "price": 845.81,
+        "categories": [
+            "Electronics",
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 159,
+        "name": "Wireless Headphones",
+        "description": "High-quality and durable",
+        "price": 206.05,
+        "categories": [
+            "Electronics",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 160,
+        "name": "Wireless Headphones",
+        "description": "Lightweight and portable",
+        "price": 379.27,
+        "categories": [
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 161,
+        "name": "Cookware Set",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 195.57,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 162,
+        "name": "Running Shoes",
+        "description": "Perfect for everyday use",
+        "price": 738.16,
+        "categories": [
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 163,
+        "name": "Running Shoes",
+        "description": "Compact and travel-friendly",
+        "price": 573.22,
+        "categories": [
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 164,
+        "name": "Electric Kettle",
+        "description": "Compact and travel-friendly",
+        "price": 428.26,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 165,
+        "name": "Sneakers",
+        "description": "High-quality and durable",
+        "price": 226.28,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 166,
+        "name": "Wristwatch",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 344.53,
+        "categories": [
+            "Electronics",
+            "Fashion",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 167,
+        "name": "Tablet",
+        "description": "Stylish and trendy design",
+        "price": 477.96,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 168,
+        "name": "Vacuum Cleaner",
+        "description": "Compact and travel-friendly",
+        "price": 526.91,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 169,
+        "name": "Electric Kettle",
+        "description": "Compact and travel-friendly",
+        "price": 197.33,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 170,
+        "name": "Tent",
+        "description": "Compact and travel-friendly",
+        "price": 117.99,
+        "categories": [
+            "Fashion",
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 171,
+        "name": "Cookware Set",
+        "description": "Comfortable and ergonomic",
+        "price": 834.54,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 172,
+        "name": "Running Shoes",
+        "description": "Compact and travel-friendly",
+        "price": 544.92,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 173,
+        "name": "Blender",
+        "description": "Lightweight and portable",
+        "price": 634.08,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 174,
+        "name": "Tent",
+        "description": "Stylish and trendy design",
+        "price": 612.87,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen",
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 175,
+        "name": "Gaming Chair",
+        "description": "High-quality and durable",
+        "price": 427.76,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 176,
+        "name": "Tablet",
+        "description": "Suitable for all age groups",
+        "price": 548.2,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors",
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 177,
+        "name": "Laptop",
+        "description": "Comfortable and ergonomic",
+        "price": 835.95,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 178,
+        "name": "Blender",
+        "description": "Lightweight and portable",
+        "price": 831.89,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 179,
+        "name": "Vacuum Cleaner",
+        "description": "Affordable and reliable",
+        "price": 950.34,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors",
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 180,
+        "name": "Running Shoes",
+        "description": "Affordable and reliable",
+        "price": 111.81,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 181,
+        "name": "Electric Kettle",
+        "description": "Perfect for everyday use",
+        "price": 899.78,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 182,
+        "name": "Blender",
+        "description": "Suitable for all age groups",
+        "price": 300.86,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 183,
+        "name": "Yoga Mat",
+        "description": "Comfortable and ergonomic",
+        "price": 222.96,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 184,
+        "name": "Vacuum Cleaner",
+        "description": "Compact and travel-friendly",
+        "price": 193.39,
+        "categories": [
+            "Electronics",
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 185,
+        "name": "Wireless Headphones",
+        "description": "Compact and travel-friendly",
+        "price": 209.32,
+        "categories": [
+            "Electronics",
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 186,
+        "name": "Bluetooth Speaker",
+        "description": "Compact and travel-friendly",
+        "price": 21.94,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 187,
+        "name": "Yoga Mat",
+        "description": "High-quality and durable",
+        "price": 556.69,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 188,
+        "name": "Cookware Set",
+        "description": "Compact and travel-friendly",
+        "price": 671.52,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 189,
+        "name": "Sunglasses",
+        "description": "Stylish and trendy design",
+        "price": 266.06,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 190,
+        "name": "Wristwatch",
+        "description": "Lightweight and portable",
+        "price": 861.6,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 191,
+        "name": "Wireless Headphones",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 513.91,
+        "categories": [
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 192,
+        "name": "Backpack",
+        "description": "Affordable and reliable",
+        "price": 535.38,
+        "categories": [
+            "Electronics",
+            "Fashion",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 193,
+        "name": "Yoga Mat",
+        "description": "Perfect for everyday use",
+        "price": 253.39,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 194,
+        "name": "Electric Kettle",
+        "description": "Affordable and reliable",
+        "price": 532.61,
+        "categories": [
+            "Fashion",
+            "Electronics",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 195,
+        "name": "T-Shirt",
+        "description": "Suitable for all age groups",
+        "price": 424.76,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 196,
+        "name": "Sunglasses",
+        "description": "Comfortable and ergonomic",
+        "price": 823.7,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 197,
+        "name": "Action Camera",
+        "description": "Stylish and trendy design",
+        "price": 321.77,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen",
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 198,
+        "name": "Wireless Headphones",
+        "description": "Stylish and trendy design",
+        "price": 648.97,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 199,
+        "name": "LED TV",
+        "description": "Made from premium materials",
+        "price": 50.49,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 200,
+        "name": "Wireless Headphones",
+        "description": "High-quality and durable",
+        "price": 295.3,
+        "categories": [
+            "Electronics",
+            "Fashion",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 201,
+        "name": "Fitness Tracker",
+        "description": "Compact and travel-friendly",
+        "price": 920.05,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 202,
+        "name": "Gaming Chair",
+        "description": "Stylish and trendy design",
+        "price": 438.37,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 203,
+        "name": "Gaming Chair",
+        "description": "Lightweight and portable",
+        "price": 97.74,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 204,
+        "name": "Smartphone",
+        "description": "High-quality and durable",
+        "price": 605.28,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 205,
+        "name": "Tablet",
+        "description": "Compact and travel-friendly",
+        "price": 968.47,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 206,
+        "name": "Bluetooth Speaker",
+        "description": "Perfect for everyday use",
+        "price": 511.42,
+        "categories": [
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Fashion",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 207,
+        "name": "Tent",
+        "description": "Perfect for everyday use",
+        "price": 434.02,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 208,
+        "name": "Sneakers",
+        "description": "High-quality and durable",
+        "price": 57.58,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 209,
+        "name": "Desk Lamp",
+        "description": "Made from premium materials",
+        "price": 999.06,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion",
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 210,
+        "name": "Camping Lantern",
+        "description": "Suitable for all age groups",
+        "price": 895.19,
+        "categories": [
+            "Electronics",
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 211,
+        "name": "Sneakers",
+        "description": "Stylish and trendy design",
+        "price": 479.68,
+        "categories": [
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 212,
+        "name": "Cookware Set",
+        "description": "High-quality and durable",
+        "price": 234.69,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 213,
+        "name": "Tent",
+        "description": "Perfect for everyday use",
+        "price": 956.98,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 214,
+        "name": "LED TV",
+        "description": "Stylish and trendy design",
+        "price": 765.56,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 215,
+        "name": "Sunglasses",
+        "description": "High-quality and durable",
+        "price": 231.95,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 216,
+        "name": "Desk Lamp",
+        "description": "Perfect for everyday use",
+        "price": 461.02,
+        "categories": [
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 217,
+        "name": "Camping Lantern",
+        "description": "Comfortable and ergonomic",
+        "price": 922.2,
+        "categories": [
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 218,
+        "name": "Desk Lamp",
+        "description": "Made from premium materials",
+        "price": 480.22,
+        "categories": [
+            "Electronics",
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 219,
+        "name": "T-Shirt",
+        "description": "Suitable for all age groups",
+        "price": 650.23,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 220,
+        "name": "Smartphone",
+        "description": "Suitable for all age groups",
+        "price": 991.97,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Electronics",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 221,
+        "name": "Wireless Headphones",
+        "description": "Made from premium materials",
+        "price": 56.89,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 222,
+        "name": "LED TV",
+        "description": "Affordable and reliable",
+        "price": 67.16,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 223,
+        "name": "Cookware Set",
+        "description": "Affordable and reliable",
+        "price": 446.01,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 224,
+        "name": "LED TV",
+        "description": "High-quality and durable",
+        "price": 166.85,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 225,
+        "name": "Running Shoes",
+        "description": "Affordable and reliable",
+        "price": 368.37,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors",
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 226,
+        "name": "Electric Kettle",
+        "description": "Comfortable and ergonomic",
+        "price": 155.87,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 227,
+        "name": "Action Camera",
+        "description": "Made from premium materials",
+        "price": 831.38,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion",
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 228,
+        "name": "Desk Lamp",
+        "description": "Suitable for all age groups",
+        "price": 595.62,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 229,
+        "name": "Water Bottle",
+        "description": "Stylish and trendy design",
+        "price": 568.27,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 230,
+        "name": "Sunglasses",
+        "description": "Stylish and trendy design",
+        "price": 306.61,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 231,
+        "name": "Sneakers",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 854.78,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 232,
+        "name": "Fitness Tracker",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 674.53,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 233,
+        "name": "Wireless Headphones",
+        "description": "Suitable for all age groups",
+        "price": 506.36,
+        "categories": [
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 234,
+        "name": "Electric Kettle",
+        "description": "Compact and travel-friendly",
+        "price": 130.79,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 235,
+        "name": "Vacuum Cleaner",
+        "description": "Comfortable and ergonomic",
+        "price": 751.63,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 236,
+        "name": "Blender",
+        "description": "Stylish and trendy design",
+        "price": 343.73,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Fashion",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 237,
+        "name": "Gaming Chair",
+        "description": "Comfortable and ergonomic",
+        "price": 671.94,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 238,
+        "name": "Vacuum Cleaner",
+        "description": "Stylish and trendy design",
+        "price": 340.01,
+        "categories": [
+            "Home & Kitchen",
+            "Fashion",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 239,
+        "name": "Wireless Headphones",
+        "description": "Comfortable and ergonomic",
+        "price": 645.26,
+        "categories": [
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 240,
+        "name": "Sunglasses",
+        "description": "Stylish and trendy design",
+        "price": 543.02,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors",
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 241,
+        "name": "Fitness Tracker",
+        "description": "Suitable for all age groups",
+        "price": 583.23,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 242,
+        "name": "Sunglasses",
+        "description": "Perfect for everyday use",
+        "price": 567.2,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 243,
+        "name": "Tablet",
+        "description": "Affordable and reliable",
+        "price": 496.89,
+        "categories": [
+            "Home & Kitchen",
+            "Fashion",
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 244,
+        "name": "Smartphone",
+        "description": "Suitable for all age groups",
+        "price": 574.18,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Electronics",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 245,
+        "name": "Desk Lamp",
+        "description": "Affordable and reliable",
+        "price": 830.18,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Electronics",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 246,
+        "name": "Fitness Tracker",
+        "description": "Made from premium materials",
+        "price": 716.82,
+        "categories": [
+            "Fashion",
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 247,
+        "name": "T-Shirt",
+        "description": "Affordable and reliable",
+        "price": 705.22,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 248,
+        "name": "T-Shirt",
+        "description": "Lightweight and portable",
+        "price": 33.62,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen",
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 249,
+        "name": "Desk Lamp",
+        "description": "Stylish and trendy design",
+        "price": 426.12,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 250,
+        "name": "Action Camera",
+        "description": "Stylish and trendy design",
+        "price": 773.21,
+        "categories": [
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Electronics",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 251,
+        "name": "Laptop",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 307.89,
+        "categories": [
+            "Fashion",
+            "Electronics",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 252,
+        "name": "Action Camera",
+        "description": "High-quality and durable",
+        "price": 769.66,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 253,
+        "name": "Action Camera",
+        "description": "Perfect for everyday use",
+        "price": 353.63,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 254,
+        "name": "Sunglasses",
+        "description": "High-quality and durable",
+        "price": 54.36,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 255,
+        "name": "Desk Lamp",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 54.14,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 256,
+        "name": "Sunglasses",
+        "description": "Made from premium materials",
+        "price": 494.18,
+        "categories": [
+            "Fashion",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 257,
+        "name": "Fitness Tracker",
+        "description": "Affordable and reliable",
+        "price": 280.95,
+        "categories": [
+            "Home & Kitchen",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 258,
+        "name": "Electric Kettle",
+        "description": "Affordable and reliable",
+        "price": 618.23,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 259,
+        "name": "T-Shirt",
+        "description": "Suitable for all age groups",
+        "price": 296.22,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 260,
+        "name": "LED TV",
+        "description": "Affordable and reliable",
+        "price": 722.56,
+        "categories": [
+            "Fashion",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 261,
+        "name": "Running Shoes",
+        "description": "Perfect for everyday use",
+        "price": 749.44,
+        "categories": [
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 262,
+        "name": "Tent",
+        "description": "Made from premium materials",
+        "price": 178.95,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 263,
+        "name": "Camping Lantern",
+        "description": "Suitable for all age groups",
+        "price": 336.15,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 264,
+        "name": "LED TV",
+        "description": "Lightweight and portable",
+        "price": 494.47,
+        "categories": [
+            "Fashion",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 265,
+        "name": "Laptop",
+        "description": "Comfortable and ergonomic",
+        "price": 319.93,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 266,
+        "name": "Sunglasses",
+        "description": "High-quality and durable",
+        "price": 390.72,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 267,
+        "name": "T-Shirt",
+        "description": "Lightweight and portable",
+        "price": 314.09,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 268,
+        "name": "Desk Lamp",
+        "description": "Made from premium materials",
+        "price": 450.07,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 269,
+        "name": "Tent",
+        "description": "Suitable for all age groups",
+        "price": 775.68,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 270,
+        "name": "Camping Lantern",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 375.04,
+        "categories": [
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Fashion",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 271,
+        "name": "Smartphone",
+        "description": "Suitable for all age groups",
+        "price": 31.91,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 272,
+        "name": "Action Camera",
+        "description": "Affordable and reliable",
+        "price": 896.44,
+        "categories": [
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 273,
+        "name": "Sneakers",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 497.45,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics",
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 274,
+        "name": "LED TV",
+        "description": "Made from premium materials",
+        "price": 513.72,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 275,
+        "name": "Wireless Headphones",
+        "description": "Suitable for all age groups",
+        "price": 321.04,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 276,
+        "name": "Desk Lamp",
+        "description": "Affordable and reliable",
+        "price": 118.4,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 277,
+        "name": "Laptop",
+        "description": "Comfortable and ergonomic",
+        "price": 507.19,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 278,
+        "name": "Office Chair",
+        "description": "Suitable for all age groups",
+        "price": 352.27,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 279,
+        "name": "Gaming Chair",
+        "description": "Suitable for all age groups",
+        "price": 233.86,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 280,
+        "name": "Running Shoes",
+        "description": "Affordable and reliable",
+        "price": 280.05,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 281,
+        "name": "T-Shirt",
+        "description": "Affordable and reliable",
+        "price": 918.08,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 282,
+        "name": "Backpack",
+        "description": "High-quality and durable",
+        "price": 323.3,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 283,
+        "name": "Fitness Tracker",
+        "description": "Compact and travel-friendly",
+        "price": 621.47,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 284,
+        "name": "Water Bottle",
+        "description": "High-quality and durable",
+        "price": 657.27,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 285,
+        "name": "Cookware Set",
+        "description": "Affordable and reliable",
+        "price": 869.29,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 286,
+        "name": "Vacuum Cleaner",
+        "description": "Perfect for everyday use",
+        "price": 676.77,
+        "categories": [
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 287,
+        "name": "Fitness Tracker",
+        "description": "Affordable and reliable",
+        "price": 74.9,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Fashion",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 288,
+        "name": "Running Shoes",
+        "description": "Perfect for everyday use",
+        "price": 440.32,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 289,
+        "name": "Tent",
+        "description": "Suitable for all age groups",
+        "price": 234.18,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics",
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 290,
+        "name": "Smartphone",
+        "description": "Affordable and reliable",
+        "price": 105.04,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics",
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 291,
+        "name": "Tent",
+        "description": "Suitable for all age groups",
+        "price": 833.0,
+        "categories": [
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 292,
+        "name": "Sunglasses",
+        "description": "Suitable for all age groups",
+        "price": 370.56,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics",
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 293,
+        "name": "Tent",
+        "description": "Made from premium materials",
+        "price": 278.04,
+        "categories": [
+            "Fashion",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 294,
+        "name": "Office Chair",
+        "description": "Suitable for all age groups",
+        "price": 760.06,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 295,
+        "name": "Sunglasses",
+        "description": "Stylish and trendy design",
+        "price": 325.88,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 296,
+        "name": "Wristwatch",
+        "description": "Stylish and trendy design",
+        "price": 478.81,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 297,
+        "name": "T-Shirt",
+        "description": "Lightweight and portable",
+        "price": 730.41,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 298,
+        "name": "Tent",
+        "description": "High-quality and durable",
+        "price": 18.02,
+        "categories": [
+            "Fashion",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 299,
+        "name": "Wireless Headphones",
+        "description": "Lightweight and portable",
+        "price": 95.8,
+        "categories": [
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 300,
+        "name": "Sunglasses",
+        "description": "Lightweight and portable",
+        "price": 493.95,
+        "categories": [
+            "Electronics",
+            "Fashion",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 301,
+        "name": "Desk Lamp",
+        "description": "Affordable and reliable",
+        "price": 910.33,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 302,
+        "name": "Tent",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 511.78,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 303,
+        "name": "Fitness Tracker",
+        "description": "High-quality and durable",
+        "price": 730.72,
+        "categories": [
+            "Fashion",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 304,
+        "name": "Tent",
+        "description": "Compact and travel-friendly",
+        "price": 933.76,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 305,
+        "name": "Smartphone",
+        "description": "Perfect for everyday use",
+        "price": 578.32,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 306,
+        "name": "Yoga Mat",
+        "description": "Suitable for all age groups",
+        "price": 25.84,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 307,
+        "name": "Wireless Headphones",
+        "description": "Suitable for all age groups",
+        "price": 160.41,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 308,
+        "name": "Bluetooth Speaker",
+        "description": "Suitable for all age groups",
+        "price": 951.41,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 309,
+        "name": "Wristwatch",
+        "description": "High-quality and durable",
+        "price": 604.39,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 310,
+        "name": "T-Shirt",
+        "description": "Comfortable and ergonomic",
+        "price": 458.42,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 311,
+        "name": "Vacuum Cleaner",
+        "description": "Stylish and trendy design",
+        "price": 26.25,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Electronics",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 312,
+        "name": "T-Shirt",
+        "description": "Made from premium materials",
+        "price": 614.6,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 313,
+        "name": "Tablet",
+        "description": "Comfortable and ergonomic",
+        "price": 876.77,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Electronics",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 314,
+        "name": "Gaming Chair",
+        "description": "Stylish and trendy design",
+        "price": 930.58,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 315,
+        "name": "Sunglasses",
+        "description": "Affordable and reliable",
+        "price": 208.35,
+        "categories": [
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 316,
+        "name": "Cookware Set",
+        "description": "Lightweight and portable",
+        "price": 197.5,
+        "categories": [
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 317,
+        "name": "Water Bottle",
+        "description": "High-quality and durable",
+        "price": 128.1,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 318,
+        "name": "Gaming Chair",
+        "description": "Lightweight and portable",
+        "price": 440.17,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 319,
+        "name": "Gaming Chair",
+        "description": "Comfortable and ergonomic",
+        "price": 295.87,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 320,
+        "name": "Sneakers",
+        "description": "Lightweight and portable",
+        "price": 623.54,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 321,
+        "name": "Office Chair",
+        "description": "Stylish and trendy design",
+        "price": 957.27,
+        "categories": [
+            "Home & Kitchen",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 322,
+        "name": "Bluetooth Speaker",
+        "description": "Perfect for everyday use",
+        "price": 691.98,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 323,
+        "name": "Water Bottle",
+        "description": "Perfect for everyday use",
+        "price": 855.88,
+        "categories": [
+            "Fashion",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 324,
+        "name": "Gaming Chair",
+        "description": "Suitable for all age groups",
+        "price": 595.05,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 325,
+        "name": "T-Shirt",
+        "description": "Perfect for everyday use",
+        "price": 588.42,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics",
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 326,
+        "name": "Wireless Headphones",
+        "description": "Suitable for all age groups",
+        "price": 890.46,
+        "categories": [
+            "Home & Kitchen",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 327,
+        "name": "T-Shirt",
+        "description": "Made from premium materials",
+        "price": 164.89,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 328,
+        "name": "Cookware Set",
+        "description": "Suitable for all age groups",
+        "price": 990.87,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 329,
+        "name": "Electric Kettle",
+        "description": "High-quality and durable",
+        "price": 869.45,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 330,
+        "name": "Wristwatch",
+        "description": "Affordable and reliable",
+        "price": 825.71,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 331,
+        "name": "Fitness Tracker",
+        "description": "Lightweight and portable",
+        "price": 676.13,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 332,
+        "name": "Running Shoes",
+        "description": "Compact and travel-friendly",
+        "price": 270.07,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 333,
+        "name": "Tablet",
+        "description": "Suitable for all age groups",
+        "price": 373.52,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 334,
+        "name": "Water Bottle",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 158.46,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 335,
+        "name": "Smartphone",
+        "description": "Stylish and trendy design",
+        "price": 336.99,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 336,
+        "name": "Wristwatch",
+        "description": "Compact and travel-friendly",
+        "price": 497.9,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 337,
+        "name": "Gaming Chair",
+        "description": "Comfortable and ergonomic",
+        "price": 731.18,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 338,
+        "name": "Laptop",
+        "description": "Stylish and trendy design",
+        "price": 967.68,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Fashion",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 339,
+        "name": "Action Camera",
+        "description": "Compact and travel-friendly",
+        "price": 511.6,
+        "categories": [
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 340,
+        "name": "T-Shirt",
+        "description": "Affordable and reliable",
+        "price": 622.46,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 341,
+        "name": "Running Shoes",
+        "description": "Lightweight and portable",
+        "price": 606.08,
+        "categories": [
+            "Home & Kitchen",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 342,
+        "name": "Tablet",
+        "description": "Affordable and reliable",
+        "price": 476.6,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 343,
+        "name": "Cookware Set",
+        "description": "Comfortable and ergonomic",
+        "price": 20.47,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 344,
+        "name": "Yoga Mat",
+        "description": "Compact and travel-friendly",
+        "price": 635.06,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 345,
+        "name": "Smartphone",
+        "description": "Perfect for everyday use",
+        "price": 971.33,
+        "categories": [
+            "Fashion",
+            "Electronics",
+            "Home & Kitchen",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 346,
+        "name": "Bluetooth Speaker",
+        "description": "Suitable for all age groups",
+        "price": 766.8,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 347,
+        "name": "Camping Lantern",
+        "description": "Compact and travel-friendly",
+        "price": 756.07,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 348,
+        "name": "Blender",
+        "description": "Lightweight and portable",
+        "price": 878.7,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics",
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 349,
+        "name": "T-Shirt",
+        "description": "Lightweight and portable",
+        "price": 987.31,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 350,
+        "name": "Gaming Chair",
+        "description": "Stylish and trendy design",
+        "price": 355.37,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 351,
+        "name": "Camping Lantern",
+        "description": "Compact and travel-friendly",
+        "price": 844.4,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion",
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 352,
+        "name": "Bluetooth Speaker",
+        "description": "High-quality and durable",
+        "price": 68.77,
+        "categories": [
+            "Fashion",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 353,
+        "name": "Bluetooth Speaker",
+        "description": "Comfortable and ergonomic",
+        "price": 981.03,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Fashion",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 354,
+        "name": "Wireless Headphones",
+        "description": "Suitable for all age groups",
+        "price": 78.28,
+        "categories": [
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 355,
+        "name": "Tent",
+        "description": "Compact and travel-friendly",
+        "price": 847.39,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 356,
+        "name": "Yoga Mat",
+        "description": "Lightweight and portable",
+        "price": 46.18,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors",
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 357,
+        "name": "Sneakers",
+        "description": "Affordable and reliable",
+        "price": 809.83,
+        "categories": [
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 358,
+        "name": "Desk Lamp",
+        "description": "Made from premium materials",
+        "price": 498.38,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 359,
+        "name": "Yoga Mat",
+        "description": "Perfect for everyday use",
+        "price": 867.31,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics",
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 360,
+        "name": "Sunglasses",
+        "description": "Suitable for all age groups",
+        "price": 881.36,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 361,
+        "name": "Camping Lantern",
+        "description": "Suitable for all age groups",
+        "price": 314.62,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 362,
+        "name": "Tablet",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 431.52,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 363,
+        "name": "Backpack",
+        "description": "Stylish and trendy design",
+        "price": 717.15,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 364,
+        "name": "Yoga Mat",
+        "description": "Affordable and reliable",
+        "price": 155.64,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 365,
+        "name": "Wireless Headphones",
+        "description": "Affordable and reliable",
+        "price": 450.16,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 366,
+        "name": "Smartphone",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 94.28,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 367,
+        "name": "Sunglasses",
+        "description": "Perfect for everyday use",
+        "price": 246.4,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 368,
+        "name": "Gaming Chair",
+        "description": "Suitable for all age groups",
+        "price": 902.71,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 369,
+        "name": "Wireless Headphones",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 245.6,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 370,
+        "name": "Gaming Chair",
+        "description": "Affordable and reliable",
+        "price": 397.6,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 371,
+        "name": "Desk Lamp",
+        "description": "Comfortable and ergonomic",
+        "price": 243.53,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 372,
+        "name": "Camping Lantern",
+        "description": "Suitable for all age groups",
+        "price": 604.53,
+        "categories": [
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 373,
+        "name": "Smartphone",
+        "description": "Comfortable and ergonomic",
+        "price": 257.39,
+        "categories": [
+            "Home & Kitchen",
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 374,
+        "name": "Gaming Chair",
+        "description": "High-quality and durable",
+        "price": 417.07,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen",
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 375,
+        "name": "LED TV",
+        "description": "Affordable and reliable",
+        "price": 681.51,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 376,
+        "name": "Wristwatch",
+        "description": "Made from premium materials",
+        "price": 714.46,
+        "categories": [
+            "Fashion",
+            "Electronics",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 377,
+        "name": "Smartphone",
+        "description": "Lightweight and portable",
+        "price": 283.08,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 378,
+        "name": "Yoga Mat",
+        "description": "Comfortable and ergonomic",
+        "price": 855.65,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 379,
+        "name": "Backpack",
+        "description": "Affordable and reliable",
+        "price": 545.24,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 380,
+        "name": "Laptop",
+        "description": "Made from premium materials",
+        "price": 950.55,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 381,
+        "name": "Blender",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 102.93,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 382,
+        "name": "Water Bottle",
+        "description": "Suitable for all age groups",
+        "price": 829.91,
+        "categories": [
+            "Electronics",
+            "Fashion",
+            "Home & Kitchen",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 383,
+        "name": "Backpack",
+        "description": "Suitable for all age groups",
+        "price": 827.05,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 384,
+        "name": "Water Bottle",
+        "description": "Comfortable and ergonomic",
+        "price": 71.26,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 385,
+        "name": "Wristwatch",
+        "description": "Compact and travel-friendly",
+        "price": 382.61,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 386,
+        "name": "Blender",
+        "description": "Made from premium materials",
+        "price": 186.74,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion",
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 387,
+        "name": "Electric Kettle",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 138.96,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 388,
+        "name": "Vacuum Cleaner",
+        "description": "Affordable and reliable",
+        "price": 225.39,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 389,
+        "name": "Smartphone",
+        "description": "Compact and travel-friendly",
+        "price": 991.83,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 390,
+        "name": "Office Chair",
+        "description": "Perfect for everyday use",
+        "price": 349.09,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 391,
+        "name": "Blender",
+        "description": "Lightweight and portable",
+        "price": 736.03,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 392,
+        "name": "Camping Lantern",
+        "description": "Compact and travel-friendly",
+        "price": 871.33,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 393,
+        "name": "Sneakers",
+        "description": "Stylish and trendy design",
+        "price": 419.31,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 394,
+        "name": "Action Camera",
+        "description": "Compact and travel-friendly",
+        "price": 641.38,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 395,
+        "name": "Action Camera",
+        "description": "Comfortable and ergonomic",
+        "price": 948.29,
+        "categories": [
+            "Home & Kitchen",
+            "Fashion",
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 396,
+        "name": "Sneakers",
+        "description": "Affordable and reliable",
+        "price": 66.06,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 397,
+        "name": "Yoga Mat",
+        "description": "Comfortable and ergonomic",
+        "price": 473.16,
+        "categories": [
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 398,
+        "name": "Vacuum Cleaner",
+        "description": "Suitable for all age groups",
+        "price": 927.45,
+        "categories": [
+            "Fashion",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 399,
+        "name": "Cookware Set",
+        "description": "High-quality and durable",
+        "price": 576.35,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 400,
+        "name": "Cookware Set",
+        "description": "Perfect for everyday use",
+        "price": 405.65,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 401,
+        "name": "T-Shirt",
+        "description": "High-quality and durable",
+        "price": 963.7,
+        "categories": [
+            "Electronics",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 402,
+        "name": "Cookware Set",
+        "description": "Perfect for everyday use",
+        "price": 598.76,
+        "categories": [
+            "Fashion",
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 403,
+        "name": "Bluetooth Speaker",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 188.09,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics",
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 404,
+        "name": "Desk Lamp",
+        "description": "Comfortable and ergonomic",
+        "price": 322.17,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics",
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 405,
+        "name": "Yoga Mat",
+        "description": "Suitable for all age groups",
+        "price": 536.73,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 406,
+        "name": "LED TV",
+        "description": "Compact and travel-friendly",
+        "price": 133.69,
+        "categories": [
+            "Fashion",
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 407,
+        "name": "Sneakers",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 162.9,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 408,
+        "name": "Wireless Headphones",
+        "description": "Made from premium materials",
+        "price": 353.86,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 409,
+        "name": "Smartphone",
+        "description": "Stylish and trendy design",
+        "price": 260.58,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 410,
+        "name": "T-Shirt",
+        "description": "Stylish and trendy design",
+        "price": 386.23,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen",
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 411,
+        "name": "Fitness Tracker",
+        "description": "High-quality and durable",
+        "price": 884.98,
+        "categories": [
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Fashion",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 412,
+        "name": "Blender",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 785.81,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 413,
+        "name": "Running Shoes",
+        "description": "Affordable and reliable",
+        "price": 688.51,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 414,
+        "name": "Blender",
+        "description": "Compact and travel-friendly",
+        "price": 907.63,
+        "categories": [
+            "Home & Kitchen",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 415,
+        "name": "Bluetooth Speaker",
+        "description": "Perfect for everyday use",
+        "price": 401.66,
+        "categories": [
+            "Electronics",
+            "Fashion",
+            "Home & Kitchen",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 416,
+        "name": "Gaming Chair",
+        "description": "Perfect for everyday use",
+        "price": 331.86,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 417,
+        "name": "Blender",
+        "description": "Suitable for all age groups",
+        "price": 673.14,
+        "categories": [
+            "Home & Kitchen",
+            "Fashion",
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 418,
+        "name": "Sunglasses",
+        "description": "Comfortable and ergonomic",
+        "price": 615.48,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics",
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 419,
+        "name": "Desk Lamp",
+        "description": "Compact and travel-friendly",
+        "price": 958.99,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen",
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 420,
+        "name": "Tent",
+        "description": "Compact and travel-friendly",
+        "price": 862.53,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 421,
+        "name": "Wristwatch",
+        "description": "Stylish and trendy design",
+        "price": 955.65,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 422,
+        "name": "Water Bottle",
+        "description": "Stylish and trendy design",
+        "price": 744.34,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 423,
+        "name": "Fitness Tracker",
+        "description": "High-quality and durable",
+        "price": 223.83,
+        "categories": [
+            "Electronics",
+            "Fashion",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 424,
+        "name": "Fitness Tracker",
+        "description": "High-quality and durable",
+        "price": 132.35,
+        "categories": [
+            "Electronics",
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 425,
+        "name": "Tent",
+        "description": "Stylish and trendy design",
+        "price": 749.56,
+        "categories": [
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 426,
+        "name": "Cookware Set",
+        "description": "Compact and travel-friendly",
+        "price": 503.37,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 427,
+        "name": "Action Camera",
+        "description": "High-quality and durable",
+        "price": 590.67,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 428,
+        "name": "Gaming Chair",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 487.09,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 429,
+        "name": "Action Camera",
+        "description": "Stylish and trendy design",
+        "price": 656.41,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 430,
+        "name": "Running Shoes",
+        "description": "Affordable and reliable",
+        "price": 601.32,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 431,
+        "name": "Tent",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 660.02,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 432,
+        "name": "T-Shirt",
+        "description": "Affordable and reliable",
+        "price": 562.27,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 433,
+        "name": "Wristwatch",
+        "description": "Lightweight and portable",
+        "price": 442.18,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 434,
+        "name": "Office Chair",
+        "description": "Stylish and trendy design",
+        "price": 492.74,
+        "categories": [
+            "Electronics",
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 435,
+        "name": "Desk Lamp",
+        "description": "Perfect for everyday use",
+        "price": 242.38,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 436,
+        "name": "Office Chair",
+        "description": "Made from premium materials",
+        "price": 151.94,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 437,
+        "name": "Bluetooth Speaker",
+        "description": "Compact and travel-friendly",
+        "price": 586.71,
+        "categories": [
+            "Electronics",
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 438,
+        "name": "Wristwatch",
+        "description": "Comfortable and ergonomic",
+        "price": 355.86,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 439,
+        "name": "Backpack",
+        "description": "Suitable for all age groups",
+        "price": 474.56,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 440,
+        "name": "LED TV",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 657.07,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion",
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 441,
+        "name": "Tablet",
+        "description": "Stylish and trendy design",
+        "price": 498.65,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 442,
+        "name": "Electric Kettle",
+        "description": "Stylish and trendy design",
+        "price": 336.2,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 443,
+        "name": "Blender",
+        "description": "Made from premium materials",
+        "price": 862.92,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 444,
+        "name": "Laptop",
+        "description": "Affordable and reliable",
+        "price": 225.62,
+        "categories": [
+            "Fashion",
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 445,
+        "name": "Vacuum Cleaner",
+        "description": "Suitable for all age groups",
+        "price": 206.42,
+        "categories": [
+            "Electronics",
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 446,
+        "name": "Tent",
+        "description": "High-quality and durable",
+        "price": 863.62,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 447,
+        "name": "Backpack",
+        "description": "High-quality and durable",
+        "price": 424.98,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 448,
+        "name": "Desk Lamp",
+        "description": "Made from premium materials",
+        "price": 244.36,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Fashion",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 449,
+        "name": "Desk Lamp",
+        "description": "Lightweight and portable",
+        "price": 633.4,
+        "categories": [
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 450,
+        "name": "Tent",
+        "description": "Perfect for everyday use",
+        "price": 828.31,
+        "categories": [
+            "Electronics",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 451,
+        "name": "Office Chair",
+        "description": "Comfortable and ergonomic",
+        "price": 328.38,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 452,
+        "name": "Desk Lamp",
+        "description": "Affordable and reliable",
+        "price": 44.74,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 453,
+        "name": "Gaming Chair",
+        "description": "Affordable and reliable",
+        "price": 805.46,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 454,
+        "name": "Gaming Chair",
+        "description": "Affordable and reliable",
+        "price": 768.71,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics",
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 455,
+        "name": "Sneakers",
+        "description": "High-quality and durable",
+        "price": 455.95,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 456,
+        "name": "Gaming Chair",
+        "description": "Compact and travel-friendly",
+        "price": 176.28,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 457,
+        "name": "Backpack",
+        "description": "High-quality and durable",
+        "price": 214.59,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 458,
+        "name": "Running Shoes",
+        "description": "Perfect for everyday use",
+        "price": 764.4,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 459,
+        "name": "Running Shoes",
+        "description": "Comfortable and ergonomic",
+        "price": 299.16,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 460,
+        "name": "Office Chair",
+        "description": "Affordable and reliable",
+        "price": 499.92,
+        "categories": [
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 461,
+        "name": "Sunglasses",
+        "description": "Lightweight and portable",
+        "price": 189.48,
+        "categories": [
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 462,
+        "name": "Backpack",
+        "description": "Made from premium materials",
+        "price": 817.37,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics",
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 463,
+        "name": "Wireless Headphones",
+        "description": "Comfortable and ergonomic",
+        "price": 637.47,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 464,
+        "name": "T-Shirt",
+        "description": "Perfect for everyday use",
+        "price": 609.51,
+        "categories": [
+            "Home & Kitchen",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 465,
+        "name": "Tablet",
+        "description": "Affordable and reliable",
+        "price": 152.01,
+        "categories": [
+            "Electronics",
+            "Fashion",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 466,
+        "name": "Camping Lantern",
+        "description": "Compact and travel-friendly",
+        "price": 751.54,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 467,
+        "name": "LED TV",
+        "description": "Comfortable and ergonomic",
+        "price": 423.39,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 468,
+        "name": "Sneakers",
+        "description": "Perfect for everyday use",
+        "price": 903.35,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 469,
+        "name": "Cookware Set",
+        "description": "Lightweight and portable",
+        "price": 517.89,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 470,
+        "name": "Wireless Headphones",
+        "description": "Lightweight and portable",
+        "price": 547.34,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 471,
+        "name": "Wireless Headphones",
+        "description": "High-quality and durable",
+        "price": 442.91,
+        "categories": [
+            "Sports & Outdoors",
+            "Electronics",
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 472,
+        "name": "Fitness Tracker",
+        "description": "Affordable and reliable",
+        "price": 726.09,
+        "categories": [
+            "Electronics",
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 473,
+        "name": "Cookware Set",
+        "description": "Suitable for all age groups",
+        "price": 37.88,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 474,
+        "name": "T-Shirt",
+        "description": "Stylish and trendy design",
+        "price": 320.95,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 475,
+        "name": "Desk Lamp",
+        "description": "Stylish and trendy design",
+        "price": 825.57,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 476,
+        "name": "Sunglasses",
+        "description": "Energy-efficient and eco-friendly",
+        "price": 950.1,
+        "categories": [
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 477,
+        "name": "Electric Kettle",
+        "description": "Lightweight and portable",
+        "price": 434.39,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 478,
+        "name": "Desk Lamp",
+        "description": "Stylish and trendy design",
+        "price": 23.72,
+        "categories": [
+            "Electronics",
+            "Sports & Outdoors",
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 479,
+        "name": "Yoga Mat",
+        "description": "Suitable for all age groups",
+        "price": 340.69,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 480,
+        "name": "Running Shoes",
+        "description": "Stylish and trendy design",
+        "price": 712.49,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 481,
+        "name": "Electric Kettle",
+        "description": "Stylish and trendy design",
+        "price": 997.72,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 482,
+        "name": "Wireless Headphones",
+        "description": "High-quality and durable",
+        "price": 717.28,
+        "categories": [
+            "Fashion",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 483,
+        "name": "Blender",
+        "description": "Suitable for all age groups",
+        "price": 723.29,
+        "categories": [
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 484,
+        "name": "Wristwatch",
+        "description": "Affordable and reliable",
+        "price": 709.65,
+        "categories": [
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 485,
+        "name": "Water Bottle",
+        "description": "Compact and travel-friendly",
+        "price": 221.47,
+        "categories": [
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 486,
+        "name": "Office Chair",
+        "description": "Compact and travel-friendly",
+        "price": 117.44,
+        "categories": [
+            "Electronics",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 487,
+        "name": "Wristwatch",
+        "description": "Made from premium materials",
+        "price": 613.47,
+        "categories": [
+            "Fashion",
+            "Electronics",
+            "Sports & Outdoors",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 488,
+        "name": "Fitness Tracker",
+        "description": "Perfect for everyday use",
+        "price": 296.91,
+        "categories": [
+            "Fashion",
+            "Electronics",
+            "Home & Kitchen",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 489,
+        "name": "Cookware Set",
+        "description": "Affordable and reliable",
+        "price": 576.53,
+        "categories": [
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 490,
+        "name": "Water Bottle",
+        "description": "Lightweight and portable",
+        "price": 392.98,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 491,
+        "name": "LED TV",
+        "description": "Comfortable and ergonomic",
+        "price": 318.69,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics",
+            "Sports & Outdoors"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 492,
+        "name": "Laptop",
+        "description": "Stylish and trendy design",
+        "price": 957.31,
+        "categories": [
+            "Home & Kitchen",
+            "Fashion",
+            "Sports & Outdoors",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 493,
+        "name": "LED TV",
+        "description": "Suitable for all age groups",
+        "price": 704.5,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 494,
+        "name": "Gaming Chair",
+        "description": "Stylish and trendy design",
+        "price": 54.01,
+        "categories": [
+            "Electronics",
+            "Home & Kitchen",
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 495,
+        "name": "Office Chair",
+        "description": "Lightweight and portable",
+        "price": 321.09,
+        "categories": [
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 496,
+        "name": "LED TV",
+        "description": "Stylish and trendy design",
+        "price": 255.3,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 497,
+        "name": "LED TV",
+        "description": "Perfect for everyday use",
+        "price": 694.63,
+        "categories": [
+            "Home & Kitchen",
+            "Electronics",
+            "Fashion"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 498,
+        "name": "T-Shirt",
+        "description": "Suitable for all age groups",
+        "price": 597.12,
+        "categories": [
+            "Home & Kitchen",
+            "Fashion",
+            "Electronics"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 499,
+        "name": "Tablet",
+        "description": "Suitable for all age groups",
+        "price": 56.36,
+        "categories": [
+            "Fashion",
+            "Electronics",
+            "Home & Kitchen"
+        ],
+        "image": "default.png"
+    },
+    {
+        "id": 500,
+        "name": "Cookware Set",
+        "description": "High-quality and durable",
+        "price": 350.34,
+        "categories": [
+            "Sports & Outdoors",
+            "Fashion",
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "image": "default.png"
+    }
+]
