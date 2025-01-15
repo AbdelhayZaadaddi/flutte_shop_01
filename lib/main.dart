@@ -21,7 +21,8 @@ class MyApp extends StatelessWidget {
           focusedBorder: OutlineInputBorder(
             borderRadius: BorderRadius.circular(8),
             borderSide: BorderSide(
-              color: Colors.grey
+              color: Colors.grey,
+              width: 2,
             )
           ),
         )

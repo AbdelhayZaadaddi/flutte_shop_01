@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:shop_01/utilities/routes.dart';
+import 'package:shop_01/views/pages/register_page.dart';
+import 'package:shop_01/views/widgets/main_button.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});
@@ -44,6 +47,47 @@ class _LoginPageState extends State<LoginPage> {
                     hintText: 'Enter your password'
                   ),
                 ),
+                const SizedBox(height: 16,),
+                Align(
+                  alignment: Alignment.topRight,
+                  child: InkWell(
+                    child: Text('Forget your password?'),
+                  ),
+                ),
+                const SizedBox(height: 16,),
+                MainButton(
+                    text: 'Login',
+                    onTap: () {
+                      print("Login");
+                    }
+                ),
+                const SizedBox(height: 15,),
+                Align(
+                  alignment: Alignment.center,
+                  child: InkWell(
+                    child: const Text('Don\'t have an account? Register'),
+                    onTap: () => Navigator.of(context).pushNamed(AppRoutes.registerPageRoute),
+                  ),
+                ),
+                const Spacer(),
+                Align(
+                  alignment: Alignment.center,
+                  child: Text('or Login with',
+                    style: Theme.of(context).textTheme.bodyLarge,
+                  ),
+                ),
+                SizedBox(height: 20,),
+                Center(
+                  child: Row(
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: [
+                      IconButton(onPressed: () {}, icon: Icon(Icons.facebook)),
+                      IconButton(onPressed: () {}, icon: Icon(Icons.g_mobiledata)),
+                      IconButton(onPressed: () {}, icon: Icon(Icons.apple)),
+                    ],
+                  ),
+                )
+
               ],
             ),
           )
