@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:shop_01/utilities/routes.dart';
 import 'package:shop_01/views/pages/landing_page.dart';
-import 'package:shop_01/views/pages/login_page.dart';
+import 'package:shop_01/views/pages/auth_page.dart';
 import 'package:shop_01/views/pages/register_page.dart';
 
 

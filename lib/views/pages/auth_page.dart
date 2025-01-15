@@ -1,19 +1,32 @@
 import 'package:flutter/material.dart';
+import 'package:shop_01/utilities/enums.dart';
 import 'package:shop_01/utilities/routes.dart';
 import 'package:shop_01/views/pages/register_page.dart';
 import 'package:shop_01/views/widgets/main_button.dart';
 
-class LoginPage extends StatefulWidget {
-  const LoginPage({super.key});
+class AuthPage extends StatefulWidget {
+  const AuthPage({super.key});
 
   @override
-  State<LoginPage> createState() => _LoginPageState();
+  State<AuthPage> createState() => _AuthPage();
 }
 
-class _LoginPageState extends State<LoginPage> {
+class _AuthPage extends State<AuthPage> {
   final _formKey = GlobalKey<FormState>();
   final _emailController = TextEditingController();
   final _passwordController = TextEditingController();
+  var _authType = AuthFormType.login;
+
+  void ChangeAuthType (){
+    setState(() {
+      if (_authType == AuthFormType.login){
+        _authType = AuthFormType.register;
+      }
+      else{
+        _authType = AuthFormType.login;
+      }
+    });
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -27,7 +40,13 @@ class _LoginPageState extends State<LoginPage> {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                const Text('Login',
+                Row(
+                  children: [
+                    IconButton(onPressed: () => Navigator.of(context).pushNamed(AppRoutes.landingPageRoute), icon: Icon(Icons.arrow_back)),
+                    Text(
+                      _authType == AuthFormType.login ? 'Login' : 'Register',
+                    ),
+                  ],
                 ),
                 SizedBox(height: 64,),
                 TextFormField(
@@ -51,28 +70,28 @@ class _LoginPageState extends State<LoginPage> {
                 Align(
                   alignment: Alignment.topRight,
                   child: InkWell(
-                    child: Text('Forget your password?'),
+                    child: _authType == AuthFormType.login
+                      ? Text('Forget your password?')
+                      : SizedBox.shrink()
                   ),
                 ),
                 const SizedBox(height: 16,),
                 MainButton(
-                    text: 'Login',
-                    onTap: () {
-                      print("Login");
-                    }
+                    text: _authType == AuthFormType.login ? 'Login' : 'Register',
+                    onTap: () {}
                 ),
                 const SizedBox(height: 15,),
                 Align(
                   alignment: Alignment.center,
                   child: InkWell(
-                    child: const Text('Don\'t have an account? Register'),
-                    onTap: () => Navigator.of(context).pushNamed(AppRoutes.registerPageRoute),
+                    child: Text(_authType == AuthFormType.login ? 'Don\'t have an account? Register' : 'You have an account login'),
+                    onTap: ChangeAuthType,
                   ),
                 ),
                 const Spacer(),
                 Align(
                   alignment: Alignment.center,
-                  child: Text('or Login with',
+                  child: Text(_authType == AuthFormType.login ? 'or Login with' : 'Or Register With',
                     style: Theme.of(context).textTheme.bodyLarge,
                   ),
                 ),
@@ -87,7 +106,6 @@ class _LoginPageState extends State<LoginPage> {
                     ],
                   ),
                 )
-
               ],
             ),
           )
